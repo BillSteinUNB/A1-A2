@@ -1,3 +1,7 @@
+/**
+ * @author Bill Stein #3714982
+ */
+
 import java.util.*;
 
 public class OnePointTwo {

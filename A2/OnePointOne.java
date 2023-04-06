@@ -1,3 +1,10 @@
+/**
+ * @author Alain Shogonyha Nasombwa
+ * Did not include testing
+ * Question was not remotely complete.
+ * Did not answer any of the questions asked
+ */
+
 import java.util.*;
 
 public class OnePointOne {
